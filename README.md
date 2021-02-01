@@ -1,1 +1,1 @@
-# Hospital application wiyh Java
+# Hospital application with Java
